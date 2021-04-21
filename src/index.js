@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+import home from './screens/home/home';
 
 ReactDOM.render(
-  <div>
-    </div>,
+  <home />,
   document.getElementById('root')
 );
 
